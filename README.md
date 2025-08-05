@@ -16,10 +16,17 @@ Here are some ideas to get you started:
 -->
 About me :
 Software Engineer
-🎓 :  MMath in CS (University of Waterloo) 
+🎓 : 
+
+MMath in CS (University of Waterloo) 
+
+
       B Tech in CSE (Amity University)
       
-Passionate about building clean and responsive code and enjoy finding creative solutions to both existing problems and upcoming ones 
+I am passionate about building clean and responsive code and I enjoy finding creative solutions to both existing problems and emerging challenges, from front end that shapes user experience to backend automation flow. 
+
+I enjoy building things and I have a strong interest in front end development: crafting what impacts users experience with technology feels like one of the most meaningful expressions of what makes computer science so beautiful. While I’ve worked on areas like API misuse and privacy in the cloud, what excites me most is hands-on coding and solving practical problems with thoughtful, maintainable solutions.
+
 
 
 ### 🧰 Tech Stack
@@ -32,7 +39,7 @@ Passionate about building clean and responsive code and enjoy finding creative s
 ### 📌 Featured Projects
 
 - 🔗 [Portfolio Website](https://prasannakumar.net) – Personal site
-- AI to play Sonic the Hedgehog game
+- AI to play Sonic the Hedgehog game (reinforcement learning application built using python as part of a graduate level course on AI at University of Waterloo)
 - Udacity Java Projects: a) Hotel Management System Application
 - Udacity Python Projects:
 
