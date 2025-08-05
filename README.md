@@ -48,7 +48,7 @@ I enjoy building things and I have a strong interest in front-end development: c
 - **Image Classifier (Python)**
   An image classification tool built from scratch using Python that allows users to classify images, developed as part of AI nanodegree.
 ---
-  🔭 Currently working on:
+ ### 🔭 Currently working on:
   - **Fitness Website** *(In progress)*
    A website to help users through their fitness journey and to showcase my own journey and motivation behind being a healthier person
   - **Game Guide Mobile App** *(In progress)*
