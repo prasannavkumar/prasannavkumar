@@ -20,8 +20,7 @@ Software Engineer
 
 MMath in CS (University of Waterloo) 
 
-
-      B Tech in CSE (Amity University)
+B Tech in CSE (Amity University)
       
 I am passionate about building clean and responsive code and I enjoy finding creative solutions to both existing problems and emerging challenges, from front end that shapes user experience to backend automation flow. 
 
