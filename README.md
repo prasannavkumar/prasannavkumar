@@ -15,16 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 About me :
-Software Engineer
+
+CS Graduate with 6 years of experience spanning across industry, research and academia.
+
 🎓 : 
 
 MMath in CS (University of Waterloo) 
 
 B Tech in CSE (Amity University)
       
-I am passionate about building clean and responsive code and I enjoy finding creative solutions to both existing problems and emerging challenges, from front end that shapes user experience to backend automation flow. 
+I am passionate about building clean and responsive code and I enjoy finding creative solutions to both existing problems and emerging challenges, from front-end that shapes user experience to backend automation flow. 
 
-I enjoy building things and I have a strong interest in front end development: crafting what impacts users experience with technology feels like one of the most meaningful expressions of what makes computer science so beautiful. While I’ve worked on areas like API misuse and privacy in the cloud, what excites me most is hands-on coding and solving practical problems with thoughtful, maintainable solutions.
+I enjoy building things and I have a strong interest in front-end development: crafting what impacts users experience with technology feels like one of the most meaningful expressions of what makes computer science so beautiful. While I’ve worked on areas like API misuse and privacy in the cloud, what excites me most is hands-on coding and solving practical problems with thoughtful, maintainable solutions.
 
 
 
@@ -32,17 +34,16 @@ I enjoy building things and I have a strong interest in front end development: c
 
 - **Languages:** JavaScript, HTML, CSS, Python, C++, Java
 - **Frameworks/Libraries:** React, Node.js
-- **IDEs:** VS Code, IntelliJ, Android Studio, 
+- **IDEs:** VS Code, IntelliJ, Android Studio 
 - **Tools:** Parcel, Gulp, Cypress, Mocha, Git, npm
-- 
 ### 📌 Featured Projects
 
 - 🔗 [Portfolio Website](https://prasannakumar.net) – Personal site
 - AI to play Sonic the Hedgehog game (reinforcement learning application built using python as part of a graduate level course on AI at University of Waterloo)
 - Udacity Java Projects: a) Hotel Management System Application
-- Udacity Python Projects:
+- Udacity Python Projects: Image Classifier
 
-- 🔭 I’m currently working on: Fitness Based Website , Mobile App to serve as a guide for users of a game
+- 🔭 I’m currently working on: Fitness Based Website, Mobile App to serve as a guide for users of a game
   
 ### 🌱 Currently Learning
 
