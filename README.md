@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## About me
 
 CS Graduate with 6 years of experience spanning industry, research and academia.
+📍 Based in Canada (Open to remote & hybrid opportunities)
 
 🎓 **Education:**
 - **MMath in CS** – University of Waterloo  
@@ -44,11 +45,11 @@ I enjoy building things and I have a strong interest in front-end development: c
 - **AI project to play Sonic the Hedgehog game**  
   Reinforcement learning application built using Python and OpenAI Gym as part of a graduate level course on AI at University of Waterloo. 
 - **Hotel Management Booking System**
-  A fully featured Hotel Management Text based Booking System to showcase OOP principles. Built using Java as part of Udacity's Java Developer Nanodegree
+  A fully featured Hotel Management text-based Booking System to showcase OOP principles. Built using Java as part of Udacity's Java Developer Nanodegree.
 - **Image Classifier (Python)**
   An image classification tool built from scratch using Python that allows users to classify images, developed as part of AI nanodegree.
 ---
- ### 🔭 Currently working on:
+ ### 🔭 Currently Working On
   - **Fitness Website** *(In progress)*
    A website to help users through their fitness journey and to showcase my own journey and motivation behind being a healthier person
   - **Game Guide Mobile App** *(In progress)*
@@ -59,7 +60,7 @@ I enjoy building things and I have a strong interest in front-end development: c
 ### 🌱 Currently Learning
 
 - React
-- iOS app development using Swift/XCode
+- iOS app development using Swift/Xcode
 
 ---
 
